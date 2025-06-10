@@ -1,7 +1,9 @@
+//user input for the amount to send
+
 let userInput = prompt("Unatuma Ngapi? (KES): ");
 let amountToSend = parseFloat(userInput);
 
-
+//validate user input
 if (isNaN(amountToSend) || amountToSend <= 0) {
     alert("Please enter a valid amount greater than 0.");
 } else {

@@ -60,7 +60,10 @@ Challenge 3: Simplified Mobile Money Transaction Fee Estimator 📱
 Project Description
 This project estimates mobile money transaction fees.It applies a 1.5% transaction fee with minimum and maximum fee limits to ensure fair charges.
 
-I developed this project to practice conditional logic, input validation, and arithm
+I developed this project to practice 
+Conditional logic.
+Input validation.
+
  Features
 - Prompts user to enter the transaction amount.
 - Calculates fee applying minimum (KES 10) and maximum (KES 70) limits.
@@ -74,5 +77,9 @@ How to Run
 1. Run the function `estimateTransactionFee()` in a JavaScript console or environment.
 2. When prompted, enter the amount you want to send.
 3. View the calculated fee and total debit amount in the console.
+
+License
+© 2025 Annet Nyabuto.
+This project is licensed under the MIT License — feel free to use.
 
 
