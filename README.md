@@ -6,9 +6,9 @@ This is a simple JavaScript calculator that helps users determine the amount of 
 
 
 This project helped me practice:
-1. user input handling
-2.basic arithmetic operations.
-3.console output formatting in JavaScript.
+1.User input handling
+2.Basic arithmetic operations.
+3.Console output formatting in JavaScript.
 
 Features
 
